@@ -15,7 +15,7 @@ console.log(obj1.full);
 obj1.full = 'test it';
 console.log(obj1.full);
 
-// ----------
+// -----
 
 var obj2 = {
   a: 7,
